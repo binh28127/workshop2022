@@ -1,2 +1,3 @@
 Name: binh
 Hobby: none
+Hobby: .. and ...
